@@ -33,7 +33,7 @@ section > p {
 }
 
 img{
-    height: 240px;
+    height: 125px;
     /* width: 200px; */
     object-fit: cover;
     margin: 20px;
@@ -51,6 +51,18 @@ section button {
     background-color: teal;
     color: white;
 
+}
+
+p > span {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+h3{
+    padding: 20px;
+    background-color: purple;
+    color: white;
+    margin: 0px;
 }
 
 
